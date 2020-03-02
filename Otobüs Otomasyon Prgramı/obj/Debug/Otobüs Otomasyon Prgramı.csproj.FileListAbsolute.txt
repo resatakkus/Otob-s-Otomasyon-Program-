@@ -1,0 +1,32 @@
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmAna.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmGiris.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.csproj.GenerateResource.Cache
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\bin\Debug\Otobüs Otomasyon Prgramı.exe
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\bin\Debug\Otobüs Otomasyon Prgramı.pdb
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.exe
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.pdb
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmKullaniciGiris.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmBayi.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmMerkez.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmİnternetSatis.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmYeniSefer.resources
+C:\Users\EMRE\Desktop\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmYolKart.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.exe
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.pdb
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\bin\Debug\Otobüs Otomasyon Prgramı.exe
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\bin\Debug\Otobüs Otomasyon Prgramı.pdb
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmAna.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmBayi.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmGiris.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmKullaniciGiris.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmMerkez.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmYolKart.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmYeniSefer.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.FrmİnternetSatis.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs_Otomasyon_Prgramı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.csproj.GenerateResource.Cache
+C:\Users\EMRE\Desktop\Programlama Ödevler\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.exe
+C:\Users\EMRE\Desktop\Programlama Ödevler\(30)Programlama Ödevi\Otobüs Otomasyon Prgramı\Otobüs Otomasyon Prgramı\obj\Debug\Otobüs Otomasyon Prgramı.pdb
